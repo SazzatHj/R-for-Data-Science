@@ -51,7 +51,7 @@ Welcome to my open-source learning repository for Data Science and Statistical R
 
 ---
 
-## 📚 Recommended Books & Official Posit References (সহায়ক বই ও অফিশিয়াল রেফারেন্স)
+## Recommended Books & Official Posit References
 
 এখানে ডাটা সায়েন্স, আর-প্রোগ্রামিং এবং অ্যাডভান্সড অ্যানালাইসিসের জন্য অফিশিয়াল **Posit (RStudio)** রিসোর্স থেকে নেওয়া সেরা বইগুলোর একটি তালিকা দেওয়া হলো। এই বইগুলোর বেশিরভাগই অনলাইনে সম্পূর্ণ বিনামূল্যে পড়া যায়:
 
@@ -68,7 +68,7 @@ Welcome to my open-source learning repository for Data Science and Statistical R
 | **bookdown: Authoring Books and Technical Documents with R Markdown** | Yihui Xie | আর মার্কারডাউন দিয়ে বড় কোনো বই, থিসিস পেপার বা টেকনিক্যাল ডকুমেন্টেশন লেখার নিয়ম। | [🌐 Read Online](https://bookdown.org/yihui/bookdown/) |
 | **Dynamic Documents with R and knitr** | Yihui Xie | আর-এর ভেতরে রিপোর্ট অটোমেশন এবং `knitr` ইঞ্জিন দিয়ে ডাইনামিক পেপার তৈরি। | [🌐 View Resource](https://yihui.org/knitr/) |
 | **Mastering Apache Spark with R** | Javier Luraschi, Kevin Kuo, & Edgar Ruiz | `sparklyr` প্যাকেজ ব্যবহার করে আর-এর মাধ্যমে বিশাল সাইজের বিগ-ডাটা (Big Data) অ্যানালাইসিস। | [🌐 Read Online](https://therinspark.com/) |
-| **Deep Learning with R** | François Chollet & J.J. Allaire | আর (R) এবং Keras/TensorFlow ফ্রেমওয়ার্ক ব্যবহার করে অ্যাডভান্সড ডিপ লার্নিং ও এআই মডেলিং। | [🛒 View on Manning](https://www.manning.com/books/deep-learning-with-r-second-edition) |
+
 
 ---
 *"The best way to learn Data Science is to document the process and share it with the world."* যদি এই নোটবুকটি আপনার উপকারে আসে, তবে রেপোটিতে একটি **Star (⭐)** দিয়ে পাশে থাকবেন!
