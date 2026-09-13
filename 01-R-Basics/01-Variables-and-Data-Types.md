@@ -1,6 +1,5 @@
 # Master Class on Variables and Data Types in R
-| Track: Data Science & Research with R | Session: 01 | Instructor/Author: Sazzat Hj |
-| :--- | :---: | :--- |
+
 
 ---
 
