@@ -1,19 +1,21 @@
 # 📚 Learning Resource Hub & Media Library
 
-Welcome to my curated resource library. This repository contains selected YouTube tutorials, online books, documentation, and useful websites for **Data Science (R), Cybersecurity, and AI Governance**.
+ This is my curated resource library of R & RStudio and Data Science. This repository contains selected YouTube tutorials, online books, documentation, and useful websites for **Data Science (R)**.
 
 ---
 
 ## 📽️ 1. YouTube Tutorials & Video Courses
 
 ### 📊 R & Data Science
-* 🎥 [R Programming Course for Beginners](https://www.youtube.com/) – *freeCodeCamp* (Basic R & RStudio Setup)
-* 🎥 [Data Science with R Full Course](https://www.youtube.com/) – *StatQuest with Josh Starmer* (Clear explanation of stats & models)
-* 🎥 [ggplot2 Tutorial Series](https://www.youtube.com/) – *Data Science Tutorials* (Data Visualization)
+* 🎥 [RStudio](https://www.youtube.com/playlist?list=PL0LznEd65M-Y3c63PvNr4lgsqAoIGHLCs) – *Research Methodology Advanced Tools*
+* 🎥 [Data Analysis Using R and R-Studio](https://www.youtube.com/playlist?list=PLiOBAYiI6xJgrLEG_nuCLbrSEKeDYHVee) – *Dr. Dhaval Maheta*
+  
+* 🎥 [R programming tutorial in Bangla](https://www.youtube.com/playlist?list=PLwFiXZvdEO5IV9crcJBsJWHETYQpU68QM) – *Rashedul Islam* 
+* 🎥 [Advanced R Tutorials for Data Science in Bangla](https://www.youtube.com/playlist?list=PLKdU0fuY4OFdcvSMgwilt99n81IhhaHSX) – *STUDY MART*
+* 🎥 [R for Data Science & Machine Learning in Bangla](https://www.youtube.com/playlist?list=PLoL-aNyxKqYp_BWr8n1U1zV_Jpyf9Y5e9) – *NBICT LAB*
 
-### 🛡️ Cybersecurity & AI
-* 🎥 [Network Security & Nmap Scanning](https://www.youtube.com/) – *NetworkChuck*
-* 🎥 [AI Ethics & Public Policy](https://www.youtube.com/) – *MIT OpenCourseWare*
+
+
 
 ---
 
@@ -35,13 +37,6 @@ Welcome to my curated resource library. This repository contains selected YouTub
 * 🌐 [Kaggle Datasets & Notebooks](https://www.kaggle.com/) – Practice real-world data analysis and R scripts.
 * 🌐 [UN Online Volunteers & Policy Docs](https://www.unv.org/) – Case studies on SDGs and policy frameworks.
 
----
-
-## 📝 4. My Personal Study Plan (Future Additions)
-
-- [ ] Complete *R for Data Science* Chapter 1–5 (Data Transformation).
-- [ ] Watch StatQuest videos on Linear Regression in R.
-- [ ] Bookmark 5 open-access papers on *AI Ethics & Green Criminology*.
 
 ---
 *Updated and maintained by Sazzat Hj*
