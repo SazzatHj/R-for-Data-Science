@@ -3,6 +3,7 @@
 
 ---
 
+
 ## 1. What is a Variable in R and its Deep Mechanism (Deep Dive into Variables)
 
 ### 1.1 What is Variable?
